@@ -1,28 +1,42 @@
-<!-- Profile Banner -->
+<!-- 🚀 AVINASH YADAV GITHUB PROFILE README -->
+
 <h1 align="center">Hi 👋, I'm Avinash Yadav</h1>
-<h3 align="center">🚀 A passionate Full Stack Developer from India</h3>
+<h3 align="center">🚀 Full Stack Developer | Founder @ Hosting Aviator | AI/ML Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Frontend+Developer;Java+%7C+DSA+Learner;Open+Source+Contributor;Tech+Enthusiast+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=600&lines=💻+Web+Developer+%7C+Hosting+Automation;📦+Founder+of+Hosting+Aviator;🧠+Learning+AI+%26+ML+%7C+Python+Dev;☕+Java+%7C+DSA+Lover;💡+Tech+Thinker+%7C+Open+Source+Contributor" alt="Typing Animation" />
 </p>
 
 ---
 
 ### 🧠 About Me
 
-- 🔭 I’m currently working on **Web Designing Projects**
-- 🌱 I’m learning **Java, DSA, MERN Stack**
-- 💬 Ask me about **HTML, CSS, JavaScript, React**
-- 👨‍💻 All of my projects are available at: [Hosting Aviator](https://hostingaviator.cloud)
-- 📫 How to reach me: **aviiyadavofficial@gmail.com**
-- ⚡ Fun fact: *I love debugging more than coding!*
+- 🔭 Working on **Hosting Automation + Web Projects**
+- 🌱 Learning **Java, DSA, Python (AI/ML), MERN Stack**
+- 💬 Ask me about: `HTML`, `CSS`, `React.js`, `Tailwind`, `Firebase`
+- 🧠 Exploring **AI IDEs**: `Cursor`, `Copilot`, `Claude`, `Codeium`
+- 📫 Email: [admin@hostingaviator.cloud](mailto:admin@hostingaviator.cloud)
+- 🌐 Website: [https://hostingaviator.cloud](https://hostingaviator.cloud)
+- ⚡ Fun Fact: *I debug faster than I write 😄*
 
 ---
 
 ### 🛠️ Languages and Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,firebase,java,vscode,git,github,figma,tailwind,bootstrap,linux" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,firebase,java,python,tailwind,bootstrap,git,github,vscode,figma,linux,postman" />
+</p>
+
+---
+
+### 🧠 AI Tools I Work With
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Copilot-green?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cursor.AI-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Claude-9C27B0?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ChatGPT-1e1e1e?style=for-the-badge&logo=openai" />
+  <img src="https://img.shields.io/badge/Codeium-orange?style=for-the-badge" />
 </p>
 
 ---
@@ -43,7 +57,7 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AVII-YADAV&theme=discord&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=AVII-YADAV&theme=matrix&margin-w=10&row=1&column=7" />
 </p>
 
 ---
@@ -51,8 +65,8 @@
 ### 📌 Pinned Projects
 
 <p align="center">
-  <a href="https://github.com/AVII-YADAV/project1"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AVII-YADAV&repo=project1&theme=radical" /></a>
-  <a href="https://github.com/AVII-YADAV/project2"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AVII-YADAV&repo=project2&theme=radical" /></a>
+  <a href="https://github.com/AVII-YADAV/portfolio_Next.js"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AVII-YADAV&repo=portfolio_Next.js&theme=radical" /></a>
+  <a href="https://github.com/AVII-YADAV/dsa"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AVII-YADAV&repo=dsa&theme=radical" /></a>
 </p>
 
 ---
@@ -60,27 +74,33 @@
 ### 🔗 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/aviiyadav" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="mailto:aviiyadavofficial@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail" /></a>
-  <a href="https://github.com/AVII-YADAV" target="_blank"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" /></a>
+  <a href="https://www.linkedin.com/in/webavinashyadav/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-webavinashyadav-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:admin@hostingaviator.cloud">
+    <img src="https://img.shields.io/badge/Gmail-admin@hostingaviator.cloud-red?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="https://github.com/AVII-YADAV" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-AVII--YADAV-black?style=for-the-badge&logo=github" />
+  </a>
 </p>
 
 ---
 
-### 🚀 Current Streak & Stats
+### 🚀 Top Languages
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AVII-YADAV&layout=compact&theme=tokyonight&hide_border=true" width="42%" />
-  <img src="https://streak-stats.demolab.com?user=AVII-YADAV&theme=tokyonight&hide_border=true" width="55%" />
 </p>
 
 ---
 
-### ❤️ Support
+### ❤️ Support My Work
 
 <p align="center">
   If you like what I do, consider giving a ⭐ to my repositories and following me!
 </p>
 
----
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+</p>
