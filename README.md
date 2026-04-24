@@ -37,7 +37,7 @@
   <img src="https://img.shields.io/badge/Claude-9C27B0?style=for-the-badge" />
   <img src="https://img.shields.io/badge/ChatGPT-1e1e1e?style=for-the-badge&logo=openai" />
   <img src="https://img.shields.io/badge/Codeium-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/.gravity-item?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Google-Anti-Gravity?style=for-the-badge" />
 </p>
 
 ---
