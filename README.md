@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner.svg" alt="Avinash Yadav — Full Stack Developer" width="100%" />
+<img src="./banner.svg" alt="Avinash Yadav — Full Stack Developer" width="100%" />
 
 <a href="https://github.com/AVII-YADAV">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C6FF&center=true&vCenter=true&width=640&lines=Building+scalable+web+products;Automating+hosting+infrastructure;Learning+AI+%26+ML+with+Python;Shipping+clean%2C+fast%2C+modern+UIs" alt="Typing animation" />
