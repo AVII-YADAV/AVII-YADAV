@@ -1,187 +1,267 @@
  <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=8&color=00F5D4"/>
+<img src="./banner.png" width="100%" alt="Avinash Yadav 3D Developer Universe"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=15&duration=2500&pause=800&color=00F5D4&center=true&vCenter=true&width=550&lines=INITIALIZING+DEVELOPER+PROFILE...;SYSTEM+ONLINE+%2F+AVINASH+YADAV;ENGINEERING+THE+NEXT+GENERATION." />
-
-# AVINASH YADAV
-
-### `SOFTWARE ENGINEER` · `AI/ML DEVELOPER` · `FOUNDER`
-
-**I don't just write code. I engineer solutions.**
-
-Building intelligent systems, scalable applications and digital products that solve real-world problems.
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=19&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&width=750&lines=WELCOME+TO+MY+DIGITAL+UNIVERSE;FULL+STACK+%2B+AI%2FML+ENGINEER;BUILDING+INTELLIGENT+APPLICATIONS;FOUNDER+%40+HOSTING+AVIATOR"/>
 
 <br/>
 
-<a href="https://github.com/AVII-YADAV">
-<img src="https://img.shields.io/badge/GITHUB-AVII--YADAV-0D1117?style=for-the-badge&logo=github&logoColor=00F5D4"/>
-</a>
-<a href="https://hostingaviator.cloud">
-<img src="https://img.shields.io/badge/FOUNDER-HOSTING%20AVIATOR-0D1117?style=for-the-badge&logo=cloudflare&logoColor=00F5D4"/>
-</a>
-
-<br/><br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=00F5D4"/>
+<img src="https://img.shields.io/badge/STATUS-ENGINEERING%20THE%20FUTURE-00D9FF?style=for-the-badge&labelColor=080D1A"/>
+<img src="https://komarev.com/ghpvc/?username=AVII-YADAV&style=for-the-badge&color=7C3AED&label=PROFILE+VISITS"/>
 
 </div>
 
-## `01` — WHO AM I?
-
-```python
-class AvinashYadav:
-
-    def __init__(self):
-        self.role = "Software Engineer"
-        self.education = "M.Tech CSE (AI/ML)"
-        self.company = "Hosting Aviator"
-        self.location = "India"
-
-        self.interests = [
-            "Artificial Intelligence",
-            "Machine Learning",
-            "Full Stack Engineering",
-            "Cloud Infrastructure",
-            "Automation & System Design"
-        ]
-
-    def mission(self):
-        return "Transform ideas into production-ready products."
-
-
-developer = AvinashYadav()
-```
-
-- 🚀 Founder of **[Hosting Aviator](https://hostingaviator.cloud)**
-- 🧠 Building with AI, ML and modern software architectures.
-- ⚡ Focused on scalable, maintainable and production-ready applications.
-- 🔬 Exploring intelligent automation and next-generation AI systems.
-
-## `02` — ENGINEERING STACK
+---
 
 <div align="center">
 
-**LANGUAGES**
+# 🌌 THE DEVELOPER UNIVERSE
 
-<img src="https://skillicons.dev/icons?i=python,java,js,ts,html,css&theme=dark"/>
+### `01 — ABOUT THE ENGINEER`
 
-<br/><br/>
+**Hey, I'm Avinash Yadav.**
 
-**AI / MACHINE LEARNING**
+M.Tech CSE (AI/ML) student, Full Stack Developer and Founder of Hosting Aviator.
 
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&theme=dark"/>
-
-<br/><br/>
-
-**FRAMEWORKS & DEVELOPMENT**
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,fastapi,flask,tailwind&theme=dark"/>
-
-<br/><br/>
-
-**DATABASE, CLOUD & DEVOPS**
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,docker,aws,linux,git,github&theme=dark"/>
-
-<br/><br/>
-
-**DEVELOPER ENVIRONMENT**
-
-<img src="https://skillicons.dev/icons?i=vscode,figma,postman&theme=dark"/>
+I build intelligent applications, scalable web platforms and automation systems with a strong focus on real-world engineering.
 
 </div>
 
-## `03` — CURRENTLY BUILDING
-
-<table width="100%">
+<table>
 <tr>
-<td width="50%" valign="top">
+<td width="50%">
 
-### ◈ HOSTING AVIATOR
+### 🧑‍💻 Developer Profile
 
-**Cloud & Hosting Infrastructure**
-
-Building web hosting solutions, domain services, hosting automation and customer-facing platforms.
-
-[EXPLORE PROJECT ↗](https://hostingaviator.cloud)
+- 🎓 M.Tech CSE — AI/ML
+- 🚀 Founder @ Hosting Aviator
+- 🌐 Full Stack Developer
+- 🧠 AI/ML Enthusiast
+- ⚡ Software & Automation Builder
 
 </td>
-<td width="50%" valign="top">
+<td width="50%">
 
-### ◈ AI / ML ENGINEERING
+### 🎯 Mission Control
 
-**Intelligent Applications**
-
-Exploring computer vision, deep learning, machine learning pipelines and AI-powered applications.
-
-`PYTHON` `PYTORCH` `TENSORFLOW`
+```python
+developer = {
+    "name": "Avinash Yadav",
+    "focus": [
+        "AI / ML",
+        "Full Stack",
+        "Cloud Systems",
+        "Automation"
+    ],
+    "mission": "Build. Scale. Innovate."
+}
+```
 
 </td>
 </tr>
 </table>
 
-## `04` — SELECTED REPOSITORIES
+---
 
 <div align="center">
+
+# ⚡ TECHNOLOGY DIMENSION
+
+### `02 — MY TECH UNIVERSE`
+
+</div>
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+### 🐍 AI / ML
+
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv&theme=dark"/>
+
+</td>
+<td align="center" width="33%">
+
+### 🌐 DEVELOPMENT
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,fastapi,flask&theme=dark"/>
+
+</td>
+<td align="center" width="33%">
+
+### ⚙️ INFRASTRUCTURE
+
+<img src="https://skillicons.dev/icons?i=docker,aws,linux,mongodb,mysql,firebase&theme=dark"/>
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,js,ts,html,css,tailwind,git,github,vscode,figma,postman&theme=dark"/>
+
+</div>
+
+---
+
+<div align="center">
+
+# 🚀 PROJECT GALAXY
+
+### `03 — THINGS I'M BUILDING`
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ☁️ HOSTING AVIATOR
+
+<img src="https://img.shields.io/badge/CLOUD-HOSTING-00D9FF?style=for-the-badge"/>
+
+Building hosting infrastructure, domain services and web hosting automation.
+
+**Focus:** Cloud · Hosting · Automation · Web Infrastructure
+
+[🌐 Explore Hosting Aviator](https://hostingaviator.cloud)
+
+</td>
+<td width="50%" valign="top">
+
+### 🧠 AI / ML PROJECTS
+
+<img src="https://img.shields.io/badge/ARTIFICIAL-INTELLIGENCE-8B5CF6?style=for-the-badge"/>
+
+Developing intelligent applications using computer vision, deep learning and machine learning.
+
+**Focus:** Python · PyTorch · TensorFlow · AI
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+### 📌 FEATURED REPOSITORIES
 
 <a href="https://github.com/AVII-YADAV/portfolio_Next.js">
-<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=AVII-YADAV&repo=portfolio_Next.js&theme=transparent&hide_border=true&title_color=00F5D4&text_color=C9D1D9&icon_color=00F5D4"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=AVII-YADAV&repo=portfolio_Next.js&theme=tokyonight&hide_border=true"/>
 </a>
 <a href="https://github.com/AVII-YADAV/dsa">
-<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=AVII-YADAV&repo=dsa&theme=transparent&hide_border=true&title_color=00F5D4&text_color=C9D1D9&icon_color=00F5D4"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=AVII-YADAV&repo=dsa&theme=tokyonight&hide_border=true"/>
 </a>
 
 </div>
 
-## `05` — GITHUB SYSTEM METRICS
+---
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AVII-YADAV&show_icons=true&hide_border=true&bg_color=00000000&title_color=00F5D4&icon_color=00F5D4&text_color=C9D1D9&rank_icon=github"/>
+# 🖥️ DEVELOPER WORKSPACE
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=AVII-YADAV&theme=transparent&hide_border=true&ring=00F5D4&fire=00F5D4&currStreakLabel=00F5D4"/>
-
-<br/><br/>
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=AVII-YADAV&bg_color=00000000&color=00F5D4&line=00F5D4&point=FFFFFF&area=true&hide_border=true"/>
+### `04 — CODE IS MY LANGUAGE`
 
 </div>
 
-## `06` — CONNECT / COLLABORATE
+<table>
+<tr>
+<td>
 
-<div align="center">
+**CURRENTLY EXPLORING**
 
-**Have an interesting idea? Let's build something extraordinary.**
+```bash
+$ whoami
+Avinash Yadav
 
-<br/>
+$ cat interests.txt
+Artificial Intelligence
+Deep Learning
+Full Stack Development
+Cloud Infrastructure
+System Design
 
-<a href="https://www.linkedin.com/in/webavinashyadav/">
-<img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=00F5D4"/>
-</a>
-<a href="mailto:admin@hostingaviator.cloud">
-<img src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=00F5D4"/>
-</a>
-<a href="https://github.com/AVII-YADAV">
-<img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=00F5D4"/>
-</a>
-
-<br/><br/>
-
-```text
-[ STATUS ]      BUILDING THE FUTURE
-[ MINDSET ]     THINK  →  ENGINEER  →  DEPLOY
-[ PHILOSOPHY ]  MAKE IT WORK. MAKE IT SCALE.
+$ echo "Keep Building"
+Keep Building 🚀
 ```
 
-<br/>
+</td>
+<td>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=00F5D4"/>
+**DEVELOPMENT PHILOSOPHY**
 
-**AVINASH YADAV** · SOFTWARE ENGINEER · INDIA
+```python
+while True:
+    idea = imagine()
 
-<sub>Designed with logic. Built with passion. Powered by curiosity.</sub>
+    solution = engineer(idea)
+
+    product = build(solution)
+
+    deploy(product)
+
+    improve(product)
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+# 📊 GITHUB COMMAND CENTER
+
+### `05 — CONTRIBUTION ANALYTICS`
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AVII-YADAV&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=8B5CF6"/>
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=AVII-YADAV&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=8B5CF6"/>
+
+<br/><br/>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=AVII-YADAV&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=8B5CF6&point=FFFFFF"/>
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=AVII-YADAV&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1"/>
+
+</div>
+
+---
+
+<div align="center">
+
+# 🌐 ESTABLISH CONNECTION
+
+### `06 — LET'S BUILD SOMETHING EXTRAORDINARY`
+
+<a href="https://www.linkedin.com/in/webavinashyadav/">
+<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:admin@hostingaviator.cloud">
+<img src="https://img.shields.io/badge/EMAIL-CONTACT-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://github.com/AVII-YADAV">
+<img src="https://img.shields.io/badge/GITHUB-FOLLOW-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://hostingaviator.cloud">
+<img src="https://img.shields.io/badge/HOSTING%20AVIATOR-EXPLORE-00D9FF?style=for-the-badge&logo=cloudflare"/>
+</a>
+
+<br/><br/>
+
+### `DREAM BIGGER. BUILD BETTER. INNOVATE ALWAYS.`
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0B2350,100:312E81&height=160&section=footer&animation=fadeIn" width="100%"/>
+
+**AVINASH YADAV © 2026 · ENGINEERED WITH PASSION**
 
 </div>
