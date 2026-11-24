@@ -22,44 +22,48 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&height=64&color=0:7F00FF,100:00C6FF&text=ABOUT%20ME&fontSize=26&fontColor=ffffff&fontAlign=50&fontAlignY=52" width="100%" alt="About me" />
+<!-- ───────────── 01 · ABOUT ───────────── -->
+<img src="./assets/h-about.svg" width="100%" alt="About me" />
 
-```ts
-const avinash: Developer = {
-  role:        "Full Stack Developer & Founder @ Hosting Aviator",
-  focus:       ["Hosting Automation", "Web Applications", "AI / ML"],
-  currently:   ["Java", "DSA", "Python (AI/ML)", "MERN Stack"],
-  stack:       ["React", "Next.js", "Node.js", "Tailwind", "Firebase", "MongoDB"],
-  aiWorkflow:  ["Cursor", "Copilot", "Claude", "Codeium"],
-  openTo:      ["Collaboration", "Open Source", "Freelance"],
-  funFact:     "I debug faster than I write 😄",
-};
-```
+<img src="./assets/about.svg" width="100%" alt="About Avinash Yadav" />
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&height=64&color=0:7F00FF,100:00C6FF&text=TECH%20STACK&fontSize=26&fontColor=ffffff&fontAlign=50&fontAlignY=52" width="100%" alt="Tech stack" />
+<!-- ───────────── 02 · TECH STACK ───────────── -->
+<img src="./assets/h-stack.svg" width="100%" alt="Tech stack" />
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap&theme=dark" alt="Frontend" /><br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,java,python&theme=dark" alt="Backend" /><br/>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,linux,postman&theme=dark" alt="Tools" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Copilot-2EA043?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="Copilot" />
-<img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" />
-<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
-<img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
-<img src="https://img.shields.io/badge/Codeium-09B6A2?style=for-the-badge&logo=codeium&logoColor=white" alt="Codeium" />
-<img src="https://img.shields.io/badge/Google%20Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Antigravity" />
-
-</div>
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="50%">
+      <h4>🎨 Frontend</h4>
+      <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap&theme=dark" alt="Frontend" />
+    </td>
+    <td align="center" width="50%">
+      <h4>⚙️ Backend &amp; Database</h4>
+      <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,java,python&theme=dark" alt="Backend" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <h4>🧰 Tools &amp; Workflow</h4>
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,linux,postman&theme=dark" alt="Tools" />
+    </td>
+    <td align="center" width="50%">
+      <h4>🤖 AI Toolkit</h4>
+      <img src="https://img.shields.io/badge/Copilot-2EA043?style=flat-square&logo=githubcopilot&logoColor=white" alt="Copilot" />
+      <img src="https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white" alt="Cursor" />
+      <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude" />
+      <img src="https://img.shields.io/badge/ChatGPT-10A37F?style=flat-square&logo=openai&logoColor=white" alt="ChatGPT" />
+      <img src="https://img.shields.io/badge/Codeium-09B6A2?style=flat-square&logo=codeium&logoColor=white" alt="Codeium" />
+      <img src="https://img.shields.io/badge/Antigravity-4285F4?style=flat-square&logo=google&logoColor=white" alt="Antigravity" />
+    </td>
+  </tr>
+</table>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&height=64&color=0:7F00FF,100:00C6FF&text=3D%20CONTRIBUTIONS&fontSize=26&fontColor=ffffff&fontAlign=50&fontAlignY=52" width="100%" alt="3D contributions" />
+<!-- ───────────── 03 · 3D CONTRIBUTIONS ───────────── -->
+<img src="./assets/h-contrib.svg" width="100%" alt="3D contributions" />
 
 <div align="center">
 
@@ -70,7 +74,8 @@ const avinash: Developer = {
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&height=64&color=0:7F00FF,100:00C6FF&text=GITHUB%20ANALYTICS&fontSize=26&fontColor=ffffff&fontAlign=50&fontAlignY=52" width="100%" alt="Analytics" />
+<!-- ───────────── 04 · ANALYTICS ───────────── -->
+<img src="./assets/h-analytics.svg" width="100%" alt="GitHub analytics" />
 
 <div align="center">
 
@@ -79,7 +84,7 @@ const avinash: Developer = {
 
 <img src="https://streak-stats.demolab.com/?user=AVII-YADAV&theme=tokyonight&hide_border=true" alt="Streak" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AVII-YADAV&theme=tokyo-night&hide_border=true&area=true" alt="Activity" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AVII-YADAV&theme=tokyo-night&hide_border=true&area=true" alt="Activity graph" width="100%" />
 
 <img src="https://github-profile-trophy.vercel.app/?username=AVII-YADAV&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&row=1&column=7" alt="Trophies" />
 
@@ -87,7 +92,8 @@ const avinash: Developer = {
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&height=64&color=0:7F00FF,100:00C6FF&text=FEATURED%20PROJECTS&fontSize=26&fontColor=ffffff&fontAlign=50&fontAlignY=52" width="100%" alt="Projects" />
+<!-- ───────────── 05 · PROJECTS ───────────── -->
+<img src="./assets/h-projects.svg" width="100%" alt="Featured projects" />
 
 <div align="center">
 
@@ -106,13 +112,16 @@ const avinash: Developer = {
 
 <br/>
 
-<div align="center">
+<!-- ───────────── CONNECT ───────────── -->
+<img src="./assets/connect.svg" width="100%" alt="Let's build something great" />
 
-### Let's build something great together
+<div align="center">
 
 <a href="https://hostingaviator.cloud"><img src="https://img.shields.io/badge/Hosting%20Aviator-7F00FF?style=for-the-badge&logo=rocket&logoColor=white&labelColor=0d1117" alt="Hosting Aviator" /></a>
 <a href="https://www.linkedin.com/in/webavinashyadav/"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn" /></a>
 <a href="mailto:admin@hostingaviator.cloud"><img src="https://img.shields.io/badge/Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Email" /></a>
+
+<br/>
 
 ⭐ Like my work? Star a repo and follow along.
 
