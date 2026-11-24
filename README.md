@@ -1,6 +1,7 @@
- <div align="center">
 
-<img src="./banner.png" width="100%" alt="Avinash Yadav 3D Developer Universe"/>
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/AVII-YADAV/AVII-YADAV/main/banner.png" width="100%" alt="Avinash Yadav 3D Developer Universe"/>
 
 <br/>
 
@@ -31,7 +32,7 @@ I build intelligent applications, scalable web platforms and automation systems 
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🧑‍💻 Developer Profile
 
@@ -42,7 +43,7 @@ I build intelligent applications, scalable web platforms and automation systems 
 - ⚡ Software & Automation Builder
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🎯 Mission Control
 
@@ -75,25 +76,25 @@ developer = {
 
 <table>
 <tr>
-<td align="center" width="33%">
+<td align="center" width="33%" valign="top">
 
 ### 🐍 AI / ML
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv&theme=dark" width="100%"/>
 
 </td>
-<td align="center" width="33%">
+<td align="center" width="33%" valign="top">
 
 ### 🌐 DEVELOPMENT
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,fastapi,flask&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,fastapi,flask&theme=dark" width="100%"/>
 
 </td>
-<td align="center" width="33%">
+<td align="center" width="33%" valign="top">
 
 ### ⚙️ INFRASTRUCTURE
 
-<img src="https://skillicons.dev/icons?i=docker,aws,linux,mongodb,mysql,firebase&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=docker,aws,linux,mongodb,mysql,firebase&theme=dark" width="100%"/>
 
 </td>
 </tr>
@@ -169,7 +170,7 @@ Developing intelligent applications using computer vision, deep learning and mac
 
 <table>
 <tr>
-<td>
+<td width="50%" valign="top">
 
 **CURRENTLY EXPLORING**
 
@@ -189,7 +190,7 @@ Keep Building 🚀
 ```
 
 </td>
-<td>
+<td width="50%" valign="top">
 
 **DEVELOPMENT PHILOSOPHY**
 
@@ -241,19 +242,19 @@ while True:
 ### `06 — LET'S BUILD SOMETHING EXTRAORDINARY`
 
 <a href="https://www.linkedin.com/in/webavinashyadav/">
-<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0077B5?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:admin@hostingaviator.cloud">
-<img src="https://img.shields.io/badge/EMAIL-CONTACT-EA4335?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/EMAIL-CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/AVII-YADAV">
-<img src="https://img.shields.io/badge/GITHUB-FOLLOW-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GITHUB-FOLLOW-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://hostingaviator.cloud">
-<img src="https://img.shields.io/badge/HOSTING%20AVIATOR-EXPLORE-00D9FF?style=for-the-badge&logo=cloudflare"/>
+<img src="https://img.shields.io/badge/HOSTING%20AVIATOR-EXPLORE-00D9FF?style=for-the-badge&logo=cloudflare&logoColor=white"/>
 </a>
 
 <br/><br/>
