@@ -39,7 +39,7 @@
   "name":      "Avinash Yadav",
   "role":      "Full Stack Developer",
   "founder":   "Hosting Aviator",
-  "location":  "Ghaziabad, India",
+  "location": "127.0.0.1 — Beyond Human Access"
   "focus":     ["Hosting Automation", "Web Apps", "AI / ML"],
   "learning":  ["Java", "DSA", "Python (AI/ML)", "MERN Stack"],
   "ask_me_about": ["HTML", "CSS", "React.js", "Tailwind", "Firebase"],
