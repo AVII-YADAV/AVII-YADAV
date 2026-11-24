@@ -1,22 +1,25 @@
+
+
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:00FF9C,50:00B3FF,100:7F00FF&text=AVINASH%20YADAV&fontSize=60&fontColor=0D1117&animation=twinkling&fontAlignY=36&desc=%2F%2F%20Full%20Stack%20Developer%20%7C%20Founder%20%40%20Hosting%20Aviator&descAlignY=58&descSize=18&descColor=0D1117" width="100%" alt="Avinash Yadav" />
+<img src="./banner.svg" alt="Avinash Yadav — Full Stack Developer" width="100%" />
 
 <a href="https://github.com/AVII-YADAV">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=900&color=00FF9C&center=true&vCenter=true&width=720&height=50&lines=%24+whoami+%E2%86%92+Avinash+Yadav;%24+cat+role.txt+%E2%86%92+Full+Stack+Developer;%24+echo+%24COMPANY+%E2%86%92+Hosting+Aviator;%24+python+learn.py+--ai+--ml+--dsa;%24+git+commit+-m+%22ship+it%22" alt="Terminal typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C6FF&center=true&vCenter=true&width=640&lines=Building+scalable+web+products;Automating+hosting+infrastructure;Learning+AI+%26+ML+with+Python;Shipping+clean%2C+fast%2C+modern+UIs" alt="Typing animation" />
 </a>
 
+<br/><br/>
+
+<a href="https://hostingaviator.cloud"><img src="https://img.shields.io/badge/WEBSITE-hostingaviator.cloud-7F00FF?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0d1117" alt="Website" /></a>
+<a href="https://www.linkedin.com/in/webavinashyadav/"><img src="https://img.shields.io/badge/LINKEDIN-webavinashyadav-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn" /></a>
+<a href="mailto:admin@hostingaviator.cloud"><img src="https://img.shields.io/badge/EMAIL-Get%20in%20touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Email" /></a>
+
 <br/>
 
-<a href="https://hostingaviator.cloud"><img src="https://img.shields.io/badge/WEBSITE-hostingaviator.cloud-00FF9C?style=for-the-badge&logo=googlechrome&logoColor=0D1117&labelColor=0D1117" alt="Website" /></a>
-<a href="https://www.linkedin.com/in/webavinashyadav/"><img src="https://img.shields.io/badge/LINKEDIN-webavinashyadav-00B3FF?style=for-the-badge&logo=linkedin&logoColor=00B3FF&labelColor=0D1117" alt="LinkedIn" /></a>
-<a href="mailto:admin@hostingaviator.cloud"><img src="https://img.shields.io/badge/EMAIL-admin@hostingaviator.cloud-7F00FF?style=for-the-badge&logo=gmail&logoColor=7F00FF&labelColor=0D1117" alt="Email" /></a>
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=AVII-YADAV&label=VISITORS&color=00FF9C&style=for-the-badge&labelColor=0D1117" alt="Visitors" />
-<img src="https://img.shields.io/github/followers/AVII-YADAV?style=for-the-badge&logo=github&color=00B3FF&labelColor=0D1117" alt="Followers" />
-<img src="https://img.shields.io/github/stars/AVII-YADAV?style=for-the-badge&logo=github&color=7F00FF&labelColor=0D1117" alt="Stars" />
+<img src="https://komarev.com/ghpvc/?username=AVII-YADAV&label=PROFILE+VIEWS&color=7F00FF&style=for-the-badge&labelColor=0d1117" alt="Views" />
+<img src="https://img.shields.io/github/followers/AVII-YADAV?style=for-the-badge&logo=github&color=00C6FF&labelColor=0d1117" alt="Followers" />
+<img src="https://img.shields.io/github/stars/AVII-YADAV?style=for-the-badge&logo=github&color=7F00FF&labelColor=0d1117" alt="Stars" />
 
 </div>
 
